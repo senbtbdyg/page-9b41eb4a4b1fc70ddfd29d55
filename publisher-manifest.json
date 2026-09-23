@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1fe0afc16aae6ac29284612e",
+  "owner": "senbtbdyg",
+  "repo": "page-9b41eb4a4b1fc70ddfd29d55",
+  "title": "飞鸟",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9b41eb4a4b1fc70ddfd29d55",
+      "a": "飞鸟",
+      "b": "2027最新官网",
+      "entity": "飞鸟",
+      "brand": "飞鸟",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1f11fa301b1d85e9955798a7690f98d17f9e7ccaf12e5f08fced740c13bc3f50",
+      "content": {
+        "primary_entity": "飞鸟",
+        "keyword1": "飞鸟",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "手机、电脑、路由器各有对应客户端，装好后导入订阅即可。",
+          "AI_CLIENTS_TITLE": "按设备挑客户端",
+          "AI_CLOSING_TEXT": "按流量和设备数挑一档，配置订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "选对版本更顺手",
+          "AI_DESCRIPTION": "，围绕三类订阅与多设备场景展开。基础版每月 100GB 流量、支持 3 台设备，适合轻度浏览；旗舰版每月 300GB、5 台设备，IPLC 专线对游戏延迟更友好；团队版每月 1000GB、20 台设备，面向多成员协作。选择时看月流量、在线设备数和线路偏好，再按客户端导入订阅即可。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路三处对照，选到贴合日常使用的版本。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础 100GB、旗舰 300GB、团队 1000GB，按用量挑。",
+          "AI_FEATURE_TEXT_2": "3 台、5 台到 20 台，手机电脑同开看设备上限。",
+          "AI_FEATURE_TEXT_3": "旗舰含 IPLC 专线，对游戏和低延迟场景更合适。",
+          "AI_FEATURE_TITLE_1": "月流量分档",
+          "AI_FEATURE_TITLE_2": "在线设备数",
+          "AI_FEATURE_TITLE_3": "线路偏好",
+          "AI_GUIDE_INTRO": "先定套餐，再核对设备，最后按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步用起来",
+          "AI_HERO_INTRO": "飞鸟提供基础版、旗舰版、团队版三档订阅，覆盖从个人轻量浏览到多设备协同的不同需求。每档套餐在月流量、在线设备数与线路类型上有明确区分，按使用习惯对照即可快速定位。",
+          "AI_HERO_SUBTITLE": "飞鸟加速器，按需选版轻松连",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖轻量到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "按设备数选版更省预算",
+          "AI_PLANS_INTRO": "三档价格从 ¥15 到 ¥85，年付更划算，按流量与设备数对号入座。基础版 ¥15/月、年付 ¥150/年，100GB 与 3 台设备；旗舰版 ¥35/月、年付 ¥350/年，300GB、5 台设备并含 IPLC 专线；团队版 ¥85/月、年付 ¥850/年，1000GB 与 20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "看月流量与在线设备数，轻度选基础，游戏选旗舰，多人选团队。",
+          "AI_STEP_TEXT_2": "确认常用设备是否在支持列表，并核对可同时在线数量。",
+          "AI_STEP_TEXT_3": "在客户端填入订阅地址，按文档完成导入与连接测试。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "查适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "飞鸟多档订阅随选",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_ANSWER_1": "飞鸟套餐分基础版、旗舰版与团队版。基础版适合轻量个人使用，每月 15 元含 100GB 流量与 3 台设备；旗舰版每月 35 元含 300GB 流量、5 台设备与 IPLC 专线；团队版每月 85 元含 1000GB 流量与 20 台设备。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。设备数量按同时在线计算，切换设备前先在原设备上退出登录即可。",
+          "AI_FAQ_ANSWER_3": "按年付比按月付更划算。基础版按年付仅需 150 元，旗舰版按年付仅需 350 元，团队版按年付仅需 850 元，相当于节省约两个月的费用。",
+          "AI_FAQ_ANSWER_4": "依客户端文档在对应应用中添加订阅地址即可。桌面端与移动端步骤略有差异，请按设备类型查看对应说明，导入后刷新节点列表就能使用。",
+          "AI_FAQ_ANSWER_5": "旗舰版与团队版包含流媒体解锁与高带宽节点，团队版还有 VIP 专属节点和企业定制路由，适合对速度和稳定性要求更高的场景。",
+          "AI_FAQ_QUESTION_1": "飞鸟有哪些套餐可选？",
+          "AI_FAQ_QUESTION_2": "一个账号能同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_4": "怎么在客户端里导入订阅？",
+          "AI_FAQ_QUESTION_5": "哪个套餐更适合看流媒体或玩游戏？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "alicenetworkssr.com",
+    "host": "alicenetworkssr.com"
+  },
+  "file_hashes": {
+    "index.html": "45868c34a74a2e47946a0cfd6fe86a96037dbcb7300b0401f726d88972e824b0",
+    "sitemap.xml": "59245bdcb3092080680e52dd96c44063bd3fd99e621c779d26e1287f1bdafbe4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c32ff8fed60921ec86ed582f7e401efee726402fbf1cc54a3e77738a5a8d94a1",
+    "robots.txt": "32345686163914822d4d244f9967869aaf3fa93627c1997ab0cdb2f050b9e5f8",
+    "9242aa29e7c54d959f95c7cdf27be47c.txt": "3d02f3c5d832c4adb6aaa50ab12747237f8b27db728de1642247eeb3f5873a47"
+  },
+  "revision": "b4885e1546256b683ad519d4a5404dd3535d2c0a212f228c875ef3b85ec3b30e"
+}
